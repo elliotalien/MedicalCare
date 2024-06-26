@@ -1,2 +1,10 @@
-# ajay
-ajay responsive
+# Medical Care
+
+## Responsive website using HTML and CSS
+
+# features 
+
+- Responsive Design
+- Dropdown menu
+- Awesome UI
+  
